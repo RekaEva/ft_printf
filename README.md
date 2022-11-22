@@ -21,4 +21,5 @@ Without bonus.
 • %X print a number in hexadecimal (base 16), with uppercase.
 
 • %% print a percent sign.
-больше информации в файле [en.subject.pdf](https://github.com/RekaEva/ft_printf/blob/main/en.subject.pdf)
+
+ Больше информации в файле [en.subject.pdf](https://github.com/RekaEva/ft_printf/blob/main/en.subject.pdf)
