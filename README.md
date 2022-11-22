@@ -2,7 +2,9 @@
 Without bonus.
 
 Этот проект представляет собой простую версию функции языка С *printf*. 
-Согласно заданию,здесь реализованно:
+
+Согласно заданию,здесь реализованна ***только функция***.
+Функция обрабатывает следующее:
 
 • %c print a single character.
 
@@ -19,3 +21,4 @@ Without bonus.
 • %X print a number in hexadecimal (base 16), with uppercase.
 
 • %% print a percent sign.
+больше информации в файле [en.subject.pdf](https://github.com/RekaEva/ft_printf/blob/main/en.subject.pdf)
